@@ -1,0 +1,16 @@
+Cameras rio do sul
+
+metrage
+https://defesacivil.riodosul.sc.gov.br/index.php?r=externo%2Fmetragem-sensores
+
+RTSP RIO d sul norte
+rtsp://pontedopamplona.ddns-intelbras.com.br:554/user=furb&password=rio101&channel=1&stream=0.sdp?
+https://www.google.com/maps/dir//-27.2442662,-49.6913693/@-27.2443018,-49.6900848,352m/data=!3m1!1e3!4m2!4m1!3e0
+
+centro
+rtsp://pontedonardelli.ddns-intelbras.com.br:554/user=furb&password=rio101&channel=1&stream=0.sdp?
+https://www.google.com/maps/dir//-27.2072331,-49.6335272/@-27.2083545,-49.6348924,586m/data=!3m1!1e3!4m2!4m1!3e0
+
+sul
+rtsp://pontedaxv.ddns-intelbras.com.br:554/user=furb&password=rio101&channel=1&stream=0.sdp?
+https://www.google.com/maps/dir//-27.2359517,-49.6460982/@-27.2365012,-49.6465102,379m/data=!3m1!1e3!4m2!4m1!3e0
