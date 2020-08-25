@@ -4,7 +4,7 @@ This is a project created for the final assignment to graduate on the Informatio
 
 It is a tool for measure the river level using Mask R-CNN and image processing. The following image sums up the project.
 
-
+![river](1.32_319.jpg =100x20) ![mask](mask-1.32_319.jpg =100x20)
 
 # Installation
 
@@ -28,7 +28,7 @@ Contains the scripts for the training of the Mask R-CNN (river.py) and to measur
 
 
 # Usage
-Use the scripts for scrap the images.
-Following, use the script dataset.py and annotate.py to divide the images and afterwards use mask2json.py to extract the coordinates.
-Use the script river.py to train the Mask R-CNN with the images divideds before.
-Use the script evaluate.py and level_calculator.py to calibrate and measure the water level and make it available.
+- Use the scripts for scrap the images.
+- Following, use the script dataset.py and annotate.py to divide the images and afterwards use mask2json.py to extract the coordinates.
+- Use the script river.py to train the Mask R-CNN with the images divideds before.
+- Use the script evaluate.py and level_calculator.py to calibrate and measure the water level and make it available.
