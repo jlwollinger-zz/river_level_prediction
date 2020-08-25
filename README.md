@@ -4,7 +4,7 @@ This is a project created for the final assignment to graduate on the Informatio
 
 It is a tool for measure the river level using Mask R-CNN and image processing. The following image sums up the project.
 
-![river](1.32_319.jpg =100x20) ![mask](mask-1.32_319.jpg =100x20)
+<img src="1.32_319.jpg" width="40%"> <img src="mask-1.32_319.jpg" width="40%">
 
 # Installation
 
